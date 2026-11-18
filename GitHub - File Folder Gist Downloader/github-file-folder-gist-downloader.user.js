@@ -5,6 +5,7 @@
 // @version      1.0
 // @icon         https://github.githubassets.com/favicons/favicon-dark.svg
 // @namespace    https://github.com/Bulldog3321/UserScripts
+// @homepageURL  https://github.com/Bulldog3321/UserScripts/tree/main/GitHub%20-%20File%20Folder%20Gist%20Downloader
 // @downloadURL  https://bulldog3321.github.io/UserScripts/GitHub%20-%20File%20Folder%20Gist%20Downloader/github-file-folder-gist-downloader.user.js
 // @supportURL   https://github.com/Bulldog3321/UserScripts/issues
 // @match        https://github.com/*

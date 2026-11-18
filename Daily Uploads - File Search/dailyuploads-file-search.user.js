@@ -5,6 +5,7 @@
 // @version      1.0
 // @icon         https://dailyuploads.net/images/favicon/favicon.ico
 // @namespace    https://github.com/Bulldog3321/UserScripts
+// @homepageURL  https://github.com/Bulldog3321/UserScripts/tree/main/Daily%20Uploads%20-%20File%20Search
 // @downloadURL  https://bulldog3321.github.io/UserScripts/Daily%20Uploads%20-%20File%20Search/dailyuploads-file-search.user.js
 // @supportURL   https://github.com/Bulldog3321/UserScripts/issues
 // @match        https://dailyuploads.net/users/*

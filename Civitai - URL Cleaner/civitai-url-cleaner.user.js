@@ -5,6 +5,7 @@
 // @version      1.0
 // @icon         https://civitai.com/favicon.ico
 // @namespace    https://github.com/Bulldog3321/UserScripts
+// @homepageURL  https://github.com/Bulldog3321/UserScripts/tree/main/Civitai%20-%20URL%20Cleaner
 // @downloadURL  https://bulldog3321.github.io/UserScripts/Civitai%20-%20URL%20Cleaner/civitai-url-cleaner.user.js
 // @supportURL   https://github.com/Bulldog3321/UserScripts/issues
 // @match        https://civitai.com/*

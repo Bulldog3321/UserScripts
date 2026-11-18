@@ -8,4 +8,4 @@ Strips unnecessary model names from Civitai URLs and adds quick actions for clea
 - **Domain swapping**: Adds a button next to model titles to switch between `civitai.com` and `civitai.red`.
 
 ## Install
-[Click here](civitai-url-cleaner.user.js) — your userscript manager will prompt you to install it.
+[Click here](https://bulldog3321.github.io/UserScripts/Civitai%20-%20URL%20Cleaner/civitai-url-cleaner.user.js) — your userscript manager will prompt you to install it.

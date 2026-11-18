@@ -5,6 +5,7 @@
 // @version      1.0
 // @icon         https://bunkr.cr/images/fav.ico
 // @namespace    https://github.com/Bulldog3321/UserScripts
+// @homepageURL  https://github.com/Bulldog3321/UserScripts/tree/main/Bunkr%20-%20Quick%20Downloader
 // @downloadURL  https://bulldog3321.github.io/UserScripts/Bunkr%20-%20Quick%20Downloader/bunkr-quick-downloader.user.js
 // @supportURL   https://github.com/Bulldog3321/UserScripts/issues
 // @match        https://*.bunkr.tld/*

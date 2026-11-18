@@ -4,6 +4,7 @@
 // @author       Bulldog
 // @version      1.0
 // @namespace    https://github.com/Bulldog3321/UserScripts
+// @homepageURL  https://github.com/Bulldog3321/UserScripts/tree/main/Linkify%20Plain-Text%20URLs
 // @downloadURL  https://bulldog3321.github.io/UserScripts/Linkify%20Plain-Text%20URLs/linkify-plain-text-urls.user.js
 // @supportURL   https://github.com/Bulldog3321/UserScripts/issues
 // @grant        GM_xmlhttpRequest

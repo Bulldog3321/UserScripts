@@ -5,6 +5,7 @@
 // @version      1.0
 // @icon         https://turbo.cr/static/favicon.svg
 // @namespace    https://github.com/Bulldog3321/UserScripts
+// @homepageURL  https://github.com/Bulldog3321/UserScripts/tree/main/Turbo.cr%20-%20Captcha%20Bypass
 // @downloadURL  https://bulldog3321.github.io/UserScripts/Turbo.cr%20-%20Captcha%20Bypass/turbo.cr-captcha-bypass.user.js
 // @supportURL   https://github.com/Bulldog3321/UserScripts/issues
 // @match        https://turbo.cr/*
