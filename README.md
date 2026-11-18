@@ -1,5 +1,3 @@
-# UserScripts
-
 A collection of userscripts I've made for personal use.
 
 | Script | Description |
