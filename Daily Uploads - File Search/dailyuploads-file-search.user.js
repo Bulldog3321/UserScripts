@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Daily Uploads - File Search
-// @description  Adds filename searching to Daily Uploads user pages
+// @description  Filename searching for Daily Uploads user pages.
 // @author       Bulldog
 // @version      1.0
 // @icon         https://dailyuploads.net/images/favicon/favicon.ico
@@ -10,6 +10,7 @@
 // @supportURL   https://github.com/Bulldog3321/UserScripts/issues
 // @match        https://dailyuploads.net/users/*
 // @grant        none
+// @run-at       document-idle
 // ==/UserScript==
 
 (function () {

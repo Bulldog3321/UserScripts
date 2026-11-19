@@ -1,6 +1,6 @@
 # Civitai - URL Cleaner
 
-Strips unnecessary model names from Civitai URLs and adds quick actions for clearing model versions and swapping between .com and .red domains.
+Strips unnecessary model names from Civitai URLs and adds actions for clearing model versions and swapping between .com and .red domains.
 
 ## Features
 - **Clean URLs**: Removes the model name from URLs, keeping only the essential ID number.

@@ -4,7 +4,6 @@ One-click file downloads for Bunkr.
 
 ## Features
 - Adds download buttons to each file in albums.
-- Download tabs open in the background.
 - On download pages, auto-clicks the download button.
 
 ## Installation

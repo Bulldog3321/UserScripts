@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Civitai - URL Cleaner
-// @description  Strips unnecessary model names from Civitai URLs and adds quick actions for clearing model versions and swapping between .com and .red domains.
+// @description  Strips unnecessary model names from Civitai URLs and adds actions for clearing model versions and swapping between .com and .red domains.
 // @author       Bulldog
 // @version      1.0
 // @icon         https://civitai.com/favicon.ico

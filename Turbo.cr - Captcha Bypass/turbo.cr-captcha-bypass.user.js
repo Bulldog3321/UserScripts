@@ -9,8 +9,7 @@
 // @downloadURL  https://bulldog3321.github.io/UserScripts/Turbo.cr%20-%20Captcha%20Bypass/turbo.cr-captcha-bypass.user.js
 // @supportURL   https://github.com/Bulldog3321/UserScripts/issues
 // @match        https://turbo.cr/*
-// @grant        none
-// @run-at       document-start
+// @run-at       document-idle
 // ==/UserScript==
 
 (() => {
